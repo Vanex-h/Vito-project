@@ -1,0 +1,2 @@
+0 Okay Sign
+1 No okay
